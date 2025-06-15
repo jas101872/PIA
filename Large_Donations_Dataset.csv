@@ -1,0 +1,201 @@
+donation_id,donor_id,donation_amount,donation_date,campaign,channel
+D1000,U0006,455.5,2023-10-24,Health First,Website
+D1001,U0035,404.82,2024-04-17,Health First,Direct Mail
+D1002,U0010,370.17,2025-05-11,Safe Childhood,Event
+D1003,U0007,337.85,2025-04-30,Digital Equality,Website
+D1004,U0022,310.71,2025-06-12,Digital Equality,Website
+D1005,U0001,141.95,2024-05-21,Digital Equality,Event
+D1006,U0013,303.49,2024-05-17,Health First,Event
+D1007,U0003,171.47,2023-08-31,Educate Girls,Event
+D1008,U0024,252.73,2025-02-21,Health First,Email
+D1009,U0027,161.09,2025-05-15,Health First,Email
+D1010,U0002,340.29,2024-01-28,Digital Equality,Event
+D1011,U0047,335.96,2025-05-09,Safe Childhood,Email
+D1012,U0042,466.08,2023-12-23,Safe Childhood,Email
+D1013,U0009,383.59,2025-05-09,Educate Girls,Direct Mail
+D1014,U0012,19.71,2023-10-07,Digital Equality,Event
+D1015,U0027,343.47,2024-10-30,Educate Girls,Direct Mail
+D1016,U0021,260.94,2025-01-29,Health First,Direct Mail
+D1017,U0035,301.78,2024-10-18,Educate Girls,Event
+D1018,U0020,16.42,2024-04-05,Health First,Website
+D1019,U0027,496.21,2023-12-30,Digital Equality,Event
+D1020,U0049,339.94,2025-03-02,Digital Equality,Direct Mail
+D1021,U0015,163.97,2024-11-25,Digital Equality,Social Media
+D1022,U0010,303.48,2024-11-25,Health First,Event
+D1023,U0039,313.65,2024-04-12,Educate Girls,Social Media
+D1024,U0026,71.68,2024-08-31,Safe Childhood,Website
+D1025,U0017,27.74,2025-04-10,Safe Childhood,Event
+D1026,U0036,166.96,2024-01-29,Health First,Direct Mail
+D1027,U0020,382.43,2025-04-07,Digital Equality,Social Media
+D1028,U0022,358.94,2023-09-29,Safe Childhood,Direct Mail
+D1029,U0045,14.66,2023-12-17,Health First,Direct Mail
+D1030,U0044,257.41,2023-12-03,Safe Childhood,Social Media
+D1031,U0046,390.14,2023-07-16,Health First,Email
+D1032,U0031,164.08,2025-05-12,Digital Equality,Direct Mail
+D1033,U0013,122.54,2024-06-01,Health First,Social Media
+D1034,U0002,167.36,2024-06-11,Health First,Event
+D1035,U0004,366.67,2024-10-06,Health First,Email
+D1036,U0040,198.97,2025-01-25,Digital Equality,Website
+D1037,U0006,339.18,2023-07-10,Health First,Social Media
+D1038,U0009,258.72,2024-05-08,Safe Childhood,Event
+D1039,U0030,169.62,2023-11-23,Educate Girls,Direct Mail
+D1040,U0027,284.55,2025-03-02,Educate Girls,Email
+D1041,U0043,419.94,2025-04-17,Health First,Email
+D1042,U0045,11.14,2025-04-24,Health First,Event
+D1043,U0008,388.77,2024-09-17,Safe Childhood,Event
+D1044,U0034,263.13,2024-09-09,Health First,Event
+D1045,U0011,237.4,2023-08-18,Digital Equality,Event
+D1046,U0006,462.07,2025-01-14,Health First,Social Media
+D1047,U0034,485.12,2025-05-12,Digital Equality,Social Media
+D1048,U0042,231.25,2023-12-25,Educate Girls,Social Media
+D1049,U0039,343.43,2023-09-03,Safe Childhood,Website
+D1050,U0049,312.35,2024-09-20,Digital Equality,Email
+D1051,U0038,351.76,2024-05-08,Educate Girls,Direct Mail
+D1052,U0033,478.6,2023-11-09,Educate Girls,Email
+D1053,U0034,351.6,2025-03-24,Digital Equality,Website
+D1054,U0038,356.37,2024-05-31,Safe Childhood,Event
+D1055,U0047,179.15,2025-05-09,Digital Equality,Website
+D1056,U0023,324.77,2023-12-26,Digital Equality,Social Media
+D1057,U0016,236.56,2024-09-23,Health First,Website
+D1058,U0003,114.97,2024-11-28,Safe Childhood,Email
+D1059,U0009,176.37,2024-08-05,Digital Equality,Event
+D1060,U0048,32.58,2023-11-28,Educate Girls,Event
+D1061,U0015,496.57,2023-07-04,Educate Girls,Social Media
+D1062,U0012,479.52,2023-08-19,Safe Childhood,Event
+D1063,U0042,412.84,2024-05-03,Educate Girls,Social Media
+D1064,U0048,129.86,2023-11-21,Safe Childhood,Event
+D1065,U0015,424.37,2025-06-08,Digital Equality,Email
+D1066,U0026,369.49,2024-01-05,Educate Girls,Website
+D1067,U0049,280.3,2023-11-01,Health First,Direct Mail
+D1068,U0004,232.25,2023-11-02,Educate Girls,Social Media
+D1069,U0048,444.33,2025-01-21,Safe Childhood,Direct Mail
+D1070,U0026,353.95,2023-12-17,Educate Girls,Website
+D1071,U0026,104.96,2024-10-13,Safe Childhood,Website
+D1072,U0026,89.51,2025-05-08,Educate Girls,Direct Mail
+D1073,U0031,275.74,2025-02-18,Safe Childhood,Direct Mail
+D1074,U0010,380.5,2024-05-21,Educate Girls,Website
+D1075,U0002,26.03,2024-03-12,Digital Equality,Website
+D1076,U0045,152.66,2023-09-30,Health First,Direct Mail
+D1077,U0045,212.37,2024-03-15,Educate Girls,Event
+D1078,U0030,359.61,2024-08-18,Safe Childhood,Social Media
+D1079,U0040,463.75,2025-02-08,Educate Girls,Website
+D1080,U0002,15.92,2025-04-09,Safe Childhood,Social Media
+D1081,U0044,160.55,2023-12-17,Safe Childhood,Event
+D1082,U0011,177.19,2024-10-17,Safe Childhood,Email
+D1083,U0045,26.3,2023-08-07,Safe Childhood,Email
+D1084,U0021,110.93,2025-01-09,Educate Girls,Event
+D1085,U0044,363.86,2024-06-22,Digital Equality,Email
+D1086,U0027,479.1,2023-10-10,Educate Girls,Social Media
+D1087,U0013,497.76,2025-05-17,Educate Girls,Social Media
+D1088,U0044,338.78,2023-07-29,Educate Girls,Direct Mail
+D1089,U0014,112.91,2025-02-24,Digital Equality,Direct Mail
+D1090,U0035,106.18,2023-06-22,Safe Childhood,Social Media
+D1091,U0020,58.49,2024-12-05,Health First,Email
+D1092,U0049,225.55,2023-08-20,Educate Girls,Website
+D1093,U0017,251.61,2024-11-08,Educate Girls,Email
+D1094,U0048,89.68,2024-12-02,Health First,Social Media
+D1095,U0008,381.85,2024-12-08,Health First,Social Media
+D1096,U0042,388.76,2024-05-16,Health First,Event
+D1097,U0030,492.78,2025-02-09,Educate Girls,Direct Mail
+D1098,U0038,370.22,2024-01-02,Digital Equality,Event
+D1099,U0015,367.58,2024-07-20,Safe Childhood,Email
+D1100,U0007,154.04,2024-07-05,Digital Equality,Email
+D1101,U0031,265.3,2024-09-26,Educate Girls,Event
+D1102,U0029,406.57,2023-06-26,Digital Equality,Event
+D1103,U0019,143.54,2024-05-24,Health First,Direct Mail
+D1104,U0037,53.42,2023-07-10,Health First,Direct Mail
+D1105,U0030,131.59,2023-09-17,Digital Equality,Email
+D1106,U0002,281.59,2024-09-24,Educate Girls,Email
+D1107,U0024,161.9,2023-08-05,Educate Girls,Website
+D1108,U0045,259.25,2025-03-04,Digital Equality,Social Media
+D1109,U0004,452.75,2023-07-08,Health First,Website
+D1110,U0034,93.83,2024-03-02,Health First,Social Media
+D1111,U0029,98.29,2024-08-17,Digital Equality,Social Media
+D1112,U0017,316.3,2023-10-03,Health First,Social Media
+D1113,U0040,76.57,2025-03-13,Digital Equality,Website
+D1114,U0014,297.09,2023-12-12,Health First,Email
+D1115,U0004,89.44,2025-03-11,Safe Childhood,Email
+D1116,U0004,340.75,2024-01-01,Safe Childhood,Website
+D1117,U0010,151.9,2024-04-19,Health First,Website
+D1118,U0048,88.25,2023-10-03,Educate Girls,Event
+D1119,U0006,493.41,2023-10-06,Educate Girls,Direct Mail
+D1120,U0049,10.21,2023-09-05,Educate Girls,Social Media
+D1121,U0023,227.74,2025-03-25,Safe Childhood,Email
+D1122,U0026,466.62,2024-03-07,Digital Equality,Direct Mail
+D1123,U0024,160.63,2024-02-09,Digital Equality,Event
+D1124,U0020,362.73,2025-01-26,Health First,Email
+D1125,U0003,89.59,2023-10-30,Educate Girls,Event
+D1126,U0035,465.79,2025-06-01,Digital Equality,Social Media
+D1127,U0029,166.13,2024-03-19,Health First,Email
+D1128,U0023,299.21,2023-09-21,Health First,Social Media
+D1129,U0018,322.85,2023-07-27,Health First,Event
+D1130,U0009,427.09,2023-07-19,Educate Girls,Website
+D1131,U0013,200.95,2023-10-22,Health First,Website
+D1132,U0048,156.27,2024-07-20,Educate Girls,Event
+D1133,U0031,252.81,2023-07-13,Safe Childhood,Direct Mail
+D1134,U0015,125.98,2025-05-26,Safe Childhood,Social Media
+D1135,U0027,421.61,2023-12-30,Digital Equality,Website
+D1136,U0016,253.85,2024-02-15,Educate Girls,Social Media
+D1137,U0004,484.3,2024-10-09,Safe Childhood,Direct Mail
+D1138,U0014,420.14,2023-11-24,Safe Childhood,Social Media
+D1139,U0036,143.85,2024-04-19,Digital Equality,Direct Mail
+D1140,U0042,220.21,2023-07-19,Digital Equality,Social Media
+D1141,U0003,105.98,2024-08-16,Digital Equality,Direct Mail
+D1142,U0017,104.94,2024-02-05,Health First,Email
+D1143,U0001,417.09,2023-07-20,Safe Childhood,Social Media
+D1144,U0046,440.93,2024-01-14,Health First,Direct Mail
+D1145,U0039,278.54,2023-11-09,Safe Childhood,Event
+D1146,U0039,13.4,2024-01-02,Educate Girls,Website
+D1147,U0030,317.18,2023-08-27,Educate Girls,Direct Mail
+D1148,U0025,417.49,2024-07-05,Educate Girls,Email
+D1149,U0032,390.37,2025-01-22,Safe Childhood,Email
+D1150,U0030,393.47,2024-05-23,Safe Childhood,Email
+D1151,U0014,304.86,2024-01-24,Digital Equality,Social Media
+D1152,U0046,201.21,2024-05-07,Safe Childhood,Website
+D1153,U0018,261.99,2023-07-03,Digital Equality,Website
+D1154,U0014,193.67,2025-05-05,Educate Girls,Email
+D1155,U0025,344.47,2025-02-08,Digital Equality,Email
+D1156,U0002,15.05,2024-08-01,Educate Girls,Website
+D1157,U0008,118.03,2024-04-27,Health First,Direct Mail
+D1158,U0049,150.12,2023-10-11,Educate Girls,Website
+D1159,U0039,407.75,2024-07-14,Digital Equality,Social Media
+D1160,U0035,467.3,2023-11-06,Health First,Event
+D1161,U0045,274.17,2024-12-19,Health First,Social Media
+D1162,U0006,79.0,2023-07-02,Health First,Email
+D1163,U0027,350.73,2023-09-18,Educate Girls,Direct Mail
+D1164,U0013,140.12,2023-09-07,Safe Childhood,Direct Mail
+D1165,U0049,348.17,2025-03-21,Digital Equality,Website
+D1166,U0025,271.69,2025-06-02,Educate Girls,Website
+D1167,U0028,170.26,2025-02-08,Educate Girls,Event
+D1168,U0034,210.44,2023-10-09,Educate Girls,Direct Mail
+D1169,U0013,263.93,2024-09-09,Educate Girls,Email
+D1170,U0045,289.7,2023-08-01,Educate Girls,Email
+D1171,U0034,312.35,2024-02-03,Safe Childhood,Social Media
+D1172,U0041,41.36,2025-03-31,Educate Girls,Direct Mail
+D1173,U0046,328.19,2025-04-12,Digital Equality,Social Media
+D1174,U0022,467.35,2023-06-15,Health First,Event
+D1175,U0048,436.86,2023-11-26,Safe Childhood,Event
+D1176,U0018,166.7,2024-05-18,Educate Girls,Social Media
+D1177,U0032,470.58,2023-07-09,Health First,Direct Mail
+D1178,U0038,316.55,2023-10-14,Educate Girls,Event
+D1179,U0004,286.45,2024-04-26,Safe Childhood,Website
+D1180,U0049,332.42,2025-03-25,Educate Girls,Event
+D1181,U0010,216.48,2025-03-05,Digital Equality,Email
+D1182,U0006,176.88,2024-08-13,Safe Childhood,Direct Mail
+D1183,U0048,282.72,2024-06-05,Educate Girls,Direct Mail
+D1184,U0043,372.92,2024-01-11,Educate Girls,Direct Mail
+D1185,U0032,236.36,2024-11-06,Health First,Social Media
+D1186,U0021,108.34,2024-01-10,Health First,Email
+D1187,U0043,230.56,2023-08-22,Health First,Email
+D1188,U0029,233.81,2023-11-24,Educate Girls,Social Media
+D1189,U0042,358.39,2024-06-24,Health First,Social Media
+D1190,U0050,436.82,2024-11-02,Safe Childhood,Social Media
+D1191,U0014,414.99,2023-08-08,Educate Girls,Event
+D1192,U0015,385.58,2024-09-19,Safe Childhood,Event
+D1193,U0014,440.55,2023-08-29,Digital Equality,Email
+D1194,U0013,444.13,2023-07-03,Health First,Event
+D1195,U0016,292.48,2025-02-17,Digital Equality,Event
+D1196,U0038,132.98,2025-04-10,Digital Equality,Website
+D1197,U0001,266.65,2023-10-17,Safe Childhood,Social Media
+D1198,U0003,67.57,2023-09-18,Health First,Email
+D1199,U0046,206.65,2024-12-11,Educate Girls,Website
